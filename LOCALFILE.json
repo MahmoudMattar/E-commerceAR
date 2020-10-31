@@ -1,0 +1,26 @@
+[
+  {
+    "_name": "omar",
+    "_age": 40,
+    "_address": "aswan",
+    "_degree": 180,
+    "_track": "it",
+    "_course": "Java"
+  },
+  {
+    "_name": "alaa",
+    "_age": 30,
+    "_address": "cairo",
+    "_degree": 90,
+    "_track": "IS",
+    "_course": "python"
+  },
+  {
+    "_name": "mostafa",
+    "_age": 22,
+    "_address": "alex",
+    "_degree": 100,
+    "_track": "cs",
+    "_course": "C#"
+  }
+]
